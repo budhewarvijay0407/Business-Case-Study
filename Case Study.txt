@@ -1,0 +1,22 @@
+Product Launch Dataset.csv
+
+The column names are self-explanatory; feel free to make relevant assumptions. 
+Each product could come in combination of multiple flavors. Each unique flavor used 
+in a product is separated from another by a semicolon (;). 
+E.g. Product ID #10 states: “Cherry, not specified; Vanilla, not specified.” This means 
+product #10 comes in a combination of two unique flavors. The first flavor “Cherry, 
+not specified” means the flavor is Cherry but it is not mentioned what particular type 
+of Cherry flavor is used (e.g Red Cherry or Black Cherry). Similarly, for the second 
+flavour. 
+The “Launch date” represents the date on which a product was launched. 
+
+Flavor Classification Dataset. Csv
+Maps each unique flavor to a “Flavor Group”.
+
+Positioning Category Mapping Dataset. csv
+Each product (as specified by a product ID) could come in combination of multiple 
+positioning categories. This file maps each unique positioning category to a 
+“Positioning Group”
+
+Prepare a presentation giving an overview of the “F&B flavors in North America 
+region”.
