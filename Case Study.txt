@@ -16,7 +16,9 @@ Maps each unique flavor to a “Flavor Group”.
 Positioning Category Mapping Dataset. csv
 Each product (as specified by a product ID) could come in combination of multiple 
 positioning categories. This file maps each unique positioning category to a 
-“Positioning Group”
+“Positioning Group” 
 
 Prepare a presentation giving an overview of the “F&B flavors in North America 
 region”.
+
+As a brand manager if you have the task to launch new product in NA , which all factors you would consider?
